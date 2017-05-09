@@ -16,3 +16,4 @@ given a unknown set of items [a, b, ... ], remove them from []
 
 First phase pseudo code.
 Do what ever it takes to get it to pass. TDD?
+[Logic tree](http://support.typora.io/Draw-Diagrams-With-Markdown/)
